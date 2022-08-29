@@ -1,0 +1,1 @@
+export { default as rickAndMorty } from './Rick_and_Morty_logo.png'
